@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "小白同学",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ogG8j50K_Ry7JbFBOgfZvQQirqrk",
+      id: "ogG8j50K_Ry7JbFBOgfZvQQirqrk,ogG8j533lMpApBgeSDzqmoTl7JOc",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "yiqBUsVktQ1uxxiT2wtnuor0TmRDKyWuQWxY1Vz0BQc",
       // 所在省份
@@ -96,7 +96,7 @@ export const config = {
     },
     {
       name: "老婆1",
-      id: "ogG8j50KRy7JbFBOgfZvQQirqrk",
+      id: "ogG8j50KRy7JbFBOgfZvQQirqrk,ogG8j533lMpApBgeSDzqmoTl7JOc",
       useTemplateId: "yiqBUsVktQ1uxxiT2wtnuor0TmRDKyWuQWxY1Vz0BQc",
       province: "河南",
       city: "洛阳",
