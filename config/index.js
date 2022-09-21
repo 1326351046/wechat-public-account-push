@@ -96,7 +96,7 @@ export const config = {
     },
     {
       name: "老婆1",
-      id: "ogG8j50K_Ry7JbFBOgfZvQQirqrk",
+      id: "ogG8j50KRy7JbFBOgfZvQQirqrk",
       useTemplateId: "yiqBUsVktQ1uxxiT2wtnuor0TmRDKyWuQWxY1Vz0BQc",
       province: "河南",
       city: "洛阳",
